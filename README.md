@@ -332,7 +332,7 @@ Base URL: http://localhost:8080
 ## 👤 Author
 
 **Divya Kake**
-- GitHub: [@Divyakake03](https://github.com/Divyakake03)
+- GitHub: [@KatariJahnavi](https://github.com/KatariJahnavi)
 
 ---
 
